@@ -8,5 +8,5 @@ Halo, nama saya Muhammad Rois. Saya seorang Programmer Front-End Junior dengan k
 Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 
 **Bahasa**:
-![Uploading image.png…]()
+! [Uploading image.png…]()
 
