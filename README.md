@@ -18,7 +18,8 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 
 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roismohammed&show_icons=true&hide=contribs,prs)
-
+My Favorit
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed)](https://github.com/roismohammed/github-readme-stats)
 ### Connect With Me
 
 ### Temukan saya di website 🌎:
