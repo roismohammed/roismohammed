@@ -17,8 +17,9 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 **Alat yang di gunakan**
 - css
 - Bootstrap
-- Talwinds.css 
+- Talwinds.css
 
+Connect With Me
 
 ### Temukan saya di website 🌎:
 - 🌐 My website [https://roisdev.vercel.app/](https://roisdev.vercel.app/)
