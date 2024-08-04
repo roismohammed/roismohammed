@@ -4,18 +4,90 @@ Halo, nama saya Muhammad Rois. Saya seorang Programmer Front-End Junior dengan k
 
 - 📬 Hubungi saya di [id.roismohammed@gmail.com](mailto:id.roismohammed@gmail.com)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dev0614/count.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/roismohammed">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20FullStack%20Web%20Developer;Software%20Developer;Web%20Designer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+<hr>
+
 Butuh situs web atau aplikasi? Hubungi saya untuk memulai bisnis.
 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Vue-blue" /> 
+        <img src="https://img.shields.io/badge/Angular-blue" /> 
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Next-blue" /> 
+        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
+        <img src="https://img.shields.io/badge/Shopify-blue" /> 
+        <img src="https://img.shields.io/badge/Chart.js-blue" />
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" />        
+        <img src="https://img.shields.io/badge/Ruby-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Laravel-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/TDD-blue" /> 
+        <img src="https://img.shields.io/badge/Jira-blue" /> 
+        <img src="https://img.shields.io/badge/Tezos-blue" /> 
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+      </td>
+    </tr>
+  </table>
+
 **Bahasa yang digunakan:**  
-- ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript
-- ![TypeScript](https://img.icons8.com/color/24/000000/typescript.png) TypeScript
-- ![React](https://img.icons8.com/color/24/000000/react-native.png) React.js
-- ![Next.js](https://img.icons8.com/color/24/000000/nextjs.png) Next.js
+
+| Bahasa        | Ikon                                                       |
+| --------------|------------------------------------------------------------|
+| JavaScript    | ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) |
+| TypeScript    | ![TypeScript](https://img.icons8.com/color/24/000000/typescript.png) |
+| React.js      | ![React](https://img.icons8.com/color/24/000000/react-native.png) |
+| Next.js       | ![Next.js](https://img.icons8.com/color/24/000000/nextjs.png) |
 
 **Alat yang digunakan:**
-- ![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS
-- ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
-- ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) Tailwind CSS
+
+| Alat          | Ikon                                                       |
+| --------------|------------------------------------------------------------|
+| CSS           | ![CSS](https://img.icons8.com/color/24/000000/css3.png) |
+| Bootstrap     | ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) |
+| Tailwind CSS  | ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) |
 
 ### Statistik GitHub
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roismohammed&theme=dark)
