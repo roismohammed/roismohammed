@@ -16,10 +16,9 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
 - ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) Tailwind CSS
 
-Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roismohammed&show_icons=true&hide=contribs,prs)
-My Favorit
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed)](https://github.com/roismohammed/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed&layout=compact)
 ### Connect With Me
 
 ### Temukan saya di website 🌎:
