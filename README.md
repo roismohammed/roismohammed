@@ -16,10 +16,18 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
 - ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) Tailwind CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roismohammed)](https://github.com/roismohammed/github-readme-stats&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roismohammed&theme=dark)](https://github.com/roismohammed/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed&layout=compact&theme=dark)
+
 ### Connect With Me
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/roismohammed)](https://instagram.com/roismohammed)
+[![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@ig_roisdev)](https://www.tiktok.com/@ig_roisdev)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@Roiss_Official)](https://www.youtube.com/@Roiss_Official)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/roismohammed)](https://linkedin.com/in/roismohammed)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/roismohammed)](https://github.com/roismohammed)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/uhammadrois?locale=id_ID)](https://web.facebook.com/uhammadrois?locale=id_ID)
 
 ### Temukan saya di website 🌎:
 - 🌐 My website [https://roisdev.vercel.app/](https://roisdev.vercel.app/)
