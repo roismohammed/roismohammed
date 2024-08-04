@@ -57,18 +57,6 @@ Butuh situs web atau aplikasi? Hubungi saya untuk memulai bisnis.
         <img src="https://img.shields.io/badge/Express-blue" /> 
         <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
     </tr>
   </table>
 
