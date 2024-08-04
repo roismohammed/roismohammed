@@ -2,12 +2,13 @@
 
 Halo, nama saya Muhammad Rois. Saya seorang Programmer Front-End Junior dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript, Bootstrap, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, serta mengintegrasikan sistem dengan layanan pihak ketiga seperti API dan platform lainnya.
 
-- 📬 Hubungi saya [id.roismohammed@gmail.com](mailto:id.roismohammed@gmail.com)
+- 📬 Hubungi saya di [id.roismohammed@gmail.com](mailto:id.roismohammed@gmail.com)
 
-Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
+Butuh situs web atau aplikasi? Hubungi saya untuk memulai bisnis.
 
 **Bahasa yang digunakan:**  
 - ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript
+- ![TypeScript](https://img.icons8.com/color/24/000000/typescript.png) TypeScript
 - ![React](https://img.icons8.com/color/24/000000/react-native.png) React.js
 - ![Next.js](https://img.icons8.com/color/24/000000/nextjs.png) Next.js
 
@@ -16,9 +17,10 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
 - ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) Tailwind CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roismohammed&theme=dark)](https://github.com/roismohammed/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roismohammed&layout=compact&theme=dark)
+### Statistik GitHub
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roismohammed&theme=dark)
+![Top Languages Used in Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roismohammed&theme=dark)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roismohammed&theme=dark)
 
 ### Connect With Me
 
@@ -30,5 +32,5 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/uhammadrois?locale=id_ID)](https://web.facebook.com/uhammadrois?locale=id_ID)
 
 ### Temukan saya di website 🌎:
-- 🌐 My website [https://roisdev.vercel.app/](https://roisdev.vercel.app/)
+- 🌐 Website saya [https://roisdev.vercel.app/](https://roisdev.vercel.app/)
 - 💬 Tanyakan apa saja kepada saya, saya dengan senang hati membantu
