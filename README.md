@@ -17,7 +17,7 @@ Butuh situs web atau aplikasi? hubungi saya untuk memulai bisnis.
 - ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwind-css.png) Tailwind CSS
 
 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs](https://github.com/roismohammed))
 
 ### Connect With Me
 
