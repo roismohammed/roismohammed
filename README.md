@@ -60,7 +60,7 @@
   <a href="https://www.tiktok.com/@ig_roisdev">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
-  <a href="[https://www.youtube.com/@Roiss_Official](https://www.youtube.com/@Roiss_Official)">
+  <a href="https://www.youtube.com/@Roiss_Official">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://linkedin.com/in/roismohammed">
