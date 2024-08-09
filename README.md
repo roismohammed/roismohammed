@@ -28,21 +28,22 @@
   </tr>
   <tr>
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/HTML-blue" /> 
-      <img src="https://img.shields.io/badge/CSS-blue" />
-      <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-      <img src="https://img.shields.io/badge/TypeScript-blue" />
-      <img src="https://img.shields.io/badge/React-blue" /> 
-      <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-      <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-      <img src="https://img.shields.io/badge/Next-blue" /> 
+      <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
     </td>      
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/adonis-blue" /> 
-      <img src="https://img.shields.io/badge/mysql-blue" /> 
+      <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 <p align="center"><strong>Statistik GitHub</strong></p>
 <p align="center">
