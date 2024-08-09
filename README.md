@@ -19,7 +19,7 @@
 
 <hr>
 
-<p align="center"><strong>Skill Saya</strong></p>
+<p align="center"><strong>Tech Tack</strong></p>
 
 <table align="center">
   <tr>
