@@ -2,7 +2,7 @@
   <strong>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Saya Muhammad Rois</strong>
 </h1>
 
-<p align="center">Saya seorang junior Fullstack Developer dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript, Bootstrap, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, menggunakan AdonisJS di backend, serta mengintegrasikan sistem dengan layanan pihak ketiga.</p>
+<p align="center">Saya seorang Front-End Web Developer dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript, Talwinds, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, menggunakan AdonisJS di backend, serta mengintegrasikan sistem dengan layanan pihak ketiga..</p>
 
 <p align="center">📬 Hubungi saya di <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/roismohammed">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20FullStack%20Web%20Developer;Software%20Developer;Web%20Designer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Software%20Developer;Web%20Designer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
