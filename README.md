@@ -6,10 +6,8 @@
 
 <p align="center">📬 Hubungi saya di <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dev0614/count.svg" />
-</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=roismohammed&label=Profile%20views&color=0e75b6&style=flat" alt="roismohammed" /> </p>
 
 <p align="center">
   <a href="https://github.com/roismohammed">
