@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
     </td>      
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/laravel%23220052.svg?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
     </td>
   </tr>
