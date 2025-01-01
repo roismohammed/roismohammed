@@ -2,7 +2,7 @@
   <strong>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Saya Muhammad Rois</strong>
 </h1>
 
-<p align="center">Saya seorang Front-End Web Developer dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript, Talwinds, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, menggunakan AdonisJS di backend, serta mengintegrasikan sistem dengan layanan pihak ketiga..</p>
+<p align="center">Saya seorang Front-End Web Developer dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript and Typscript, Talwinds, Bootstrap, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, menggunakan Laravel di backend, serta mengintegrasikan sistem dengan layanan pihak ketiga..</p>
 
 <p align="center">📬 Hubungi saya di <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
 
@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
     </td>      
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/laravel%23220052.svg?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
     </td>
   </tr>
