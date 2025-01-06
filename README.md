@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/inertia.js-%234B275F.svg?style=flat&logo=inertia&logoColor=white" />
     </td>      
     <td valign="center" align="center" width="300px">
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
@@ -41,6 +42,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <p align="center"><strong>Statistik GitHub</strong></p>
