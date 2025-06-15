@@ -2,7 +2,8 @@
   <strong>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Saya Muhammad Rois</strong>
 </h1>
 
-<p align="center">Saya seorang Front-End Web Developer dengan keahlian dalam pengembangan menggunakan bahasa pemrograman seperti JavaScript and Typscript, Talwinds, Bootstrap, dan ReactJS. Saya juga memiliki pengalaman dalam merancang dan mengimplementasikan basis data, menggunakan Laravel di backend, serta mengintegrasikan sistem dengan layanan pihak ketiga..</p>
+<p align="center">I am a Front-End Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using Laravel for the backend, and integrating systems with third-party services.
+</p>
 
 <p align="center">📬 Hubungi saya di <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
 
