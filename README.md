@@ -1,14 +1,16 @@
 <h1 align="center"> 
-  <strong>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Saya Muhammad Rois</strong>
+  <strong>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Muhammad Rois</strong>
 </h1>
 
-<p align="center">I am a Front-End Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using Laravel for the backend, and integrating systems with third-party services.
+<p align="center">
+  I am a Front-End Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using Laravel for the backend, and integrating systems with third-party services.
 </p>
 
-<p align="center">📬 Hubungi saya di <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
+<p align="center">📬 Contact me at <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roismohammed&label=Profile%20views&color=0e75b6&style=flat" alt="roismohammed" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roismohammed&label=Profile%20views&color=0e75b6&style=flat" alt="roismohammed" />
+</p>
 
 <p align="center">
   <a href="https://github.com/roismohammed">
@@ -18,7 +20,7 @@
 
 <hr>
 
-<p align="center"><strong>Tech Tack</strong></p>
+<p align="center"><strong>Tech Stack</strong></p>
 
 <table align="center">
   <tr>
@@ -44,9 +46,7 @@
   </tr>
 </table>
 
-
-
-<p align="center"><strong>Statistik GitHub</strong></p>
+<p align="center"><strong>GitHub Statistics</strong></p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roismohammed&theme=dark" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roismohammed&theme=dark" alt="Top Languages Used in Repository" />
@@ -68,14 +68,13 @@
   <a href="https://linkedin.com/in/roismohammed">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
   <a href="https://web.facebook.com/uhammadrois?locale=id_ID">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
 
-<p align="center"><strong>Temukan saya di website 🌎:</strong></p>
+<p align="center"><strong>Find me on my website 🌎:</strong></p>
 <p align="center">
-  - 🌐 Website saya <a href="https://roisdev.vercel.app/">https://roisdev.vercel.app/</a><br>
-  - 💬 Tanyakan apa saja kepada saya, saya dengan senang hati membantu
+  - 🌐 My Website: <a href="https://roisdev.vercel.app/">https://roisdev.vercel.app/</a><br>
+  - 💬 Feel free to ask me anything, I'm happy to help
 </p>
