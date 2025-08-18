@@ -39,10 +39,12 @@
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/inertia.js-%234B275F.svg?style=flat&logo=inertia&logoColor=white" />
     </td>      
-    <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
-    </td>
+   <td valign="center" align="center" width="300px">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/adonisjs-%235A45FF.svg?style=flat&logo=adonisjs&logoColor=white" />
+</td>
+
   </tr>
 </table>
 
