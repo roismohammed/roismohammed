@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am a Front-End Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using Laravel for the backend, and integrating systems with third-party services.
+  I am a Front-End Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using adonis.js for the backend, and integrating systems with third-party services.
 </p>
 
 <p align="center">📬 Contact me at <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
@@ -77,6 +77,6 @@
 
 <p align="center"><strong>Find me on my website 🌎:</strong></p>
 <p align="center">
-  - 🌐 My Website: <a href="https://roisdev.vercel.app/">https://roisdev.vercel.app/</a><br>
+  - 🌐 My Website: <a href="https://roisdev.my.id/">https://roisdev.my.id/</a><br>
   - 💬 Feel free to ask me anything, I'm happy to help
 </p>
