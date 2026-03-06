@@ -55,7 +55,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roismohammed&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center"><strong>Connect With Mee</strong></p>
+<p align="center"><strong>Connect With Me</strong></p>
 
 <p align="center">
   <a href="https://instagram.com/roisdev_">
