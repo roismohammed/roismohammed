@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am a Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databasess, using adonis.js and laravel for the backend, and integrating systems with third-party services.
+  I am a Web Developer with expertise in development using programming languages such as JavaScript and TypeScript, as well as frameworks like Tailwind CSS, Bootstrap, and ReactJS. I also have experience in designing and implementing databases, using adonis.js and laravel for the backend, and integrating systems with third-party services.
 </p>
 
 <p align="center">📬 Contact me at <a href="mailto:id.roismohammed@gmail.com">id.roismohammed@gmail.com</a></p>
